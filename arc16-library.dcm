@@ -1,9 +1,63 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HC238
+D Decoder 3 to 8 active high outputs
+K TTL DECOD DECOD8
+F http://www.ti.com/lit/ds/symlink/cd74hc138.pdf
+$ENDCMP
+#
+$CMP 74HCT08
+D Quad And2
+K TTL and2
+F http://www.ti.com/lit/ds/symlink/sn74hct08.pdf
+$ENDCMP
+#
+$CMP 74HCT238
+D Decoder 3 to 8 active high outputs
+K TTL DECOD DECOD8
+F http://www.ti.com/lit/ds/symlink/cd74hc138.pdf
+$ENDCMP
+#
+$CMP 74HCT257
+D Quad 2 to 1 Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/ds/symlink/sn74hct257.pdf
+$ENDCMP
+#
+$CMP 74LS08
+D Quad And2
+K TTL and2
+F http://www.ti.com/lit/gpn/sn74LS08
+$ENDCMP
+#
+$CMP 74LS09
+D Quad 2-input AND Open Collect
+K TTL and2 OpenCol
+F http://www.ti.com/lit/gpn/sn74LS09
+$ENDCMP
+#
+$CMP 74LS251
+D Multiplexer 8 to 1, 3-state Outputs
+K TTL MUX MUX8 3State
+F http://www.ti.com/lit/gpn/sn74LS251
+$ENDCMP
+#
+$CMP 74LS257
+D Quad 2 to 1 Multiplexer
+K TTL MUX MUX2
+F http://www.ti.com/lit/gpn/sn74LS257
+$ENDCMP
+#
 $CMP CD74HCT21
 D Dual 4-input AND
 K TTL And4
 F http://www.ti.com/lit/ds/symlink/cd74hc21.pdf
+$ENDCMP
+#
+$CMP CD74HCT251
+D Multiplexer 8 to 1, 3-state Outputs
+K TTL MUX MUX8 3State
+F http://www.ti.com/lit/ds/symlink/cd74hc251.pdf
 $ENDCMP
 #
 #End Doc Library

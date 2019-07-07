@@ -1,9 +1,10 @@
 EESchema Schematic File Version 4
+LIBS:arc16-design-cache
 EELAYER 29 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 3 3
+Sheet 3 47
 Title ""
 Date ""
 Rev ""
@@ -760,22 +761,46 @@ Wire Wire Line
 	8750 1400 9700 1400
 Wire Wire Line
 	10250 2600 9350 2600
-Wire Wire Line
-	7850 2000 8150 2000
-Wire Wire Line
-	5900 2000 6150 2000
-Wire Wire Line
-	4000 2000 4250 2000
-Wire Wire Line
-	1950 2000 2250 2000
-Wire Bus Line
-	3650 1900 3650 3800
+Text Label 8150 2500 2    50   ~ 0
+S0
+Text Label 8150 2600 2    50   ~ 0
+S1
+Text Label 8150 2700 2    50   ~ 0
+S2
+Text Label 8150 2800 2    50   ~ 0
+S3
+Text Label 6150 2500 2    50   ~ 0
+S0
+Text Label 6150 2600 2    50   ~ 0
+S1
+Text Label 6150 2700 2    50   ~ 0
+S2
+Text Label 6150 2800 2    50   ~ 0
+S3
+Text Label 4250 2500 2    50   ~ 0
+S0
+Text Label 4250 2600 2    50   ~ 0
+S1
+Text Label 4250 2700 2    50   ~ 0
+S2
+Text Label 4250 2800 2    50   ~ 0
+S3
+Text Label 2250 2500 2    50   ~ 0
+S0
+Text Label 2250 2600 2    50   ~ 0
+S1
+Text Label 2250 2700 2    50   ~ 0
+S2
+Text Label 2250 2800 2    50   ~ 0
+S3
 Wire Bus Line
 	9500 1900 9500 3800
 Wire Bus Line
 	7500 1900 7500 3800
 Wire Bus Line
 	5600 1900 5600 3800
+Wire Bus Line
+	3650 1900 3650 3800
 Wire Bus Line
 	900  3900 9650 3900
 Wire Bus Line
@@ -786,24 +811,32 @@ Wire Bus Line
 	6000 2500 6000 3650
 Wire Bus Line
 	8000 2500 8000 3650
+Wire Wire Line
+	7850 2000 8150 2000
+Wire Bus Line
+	8000 1150 8000 2400
+Wire Bus Line
+	7750 800  7750 2000
+Wire Wire Line
+	5900 2000 6150 2000
+Wire Bus Line
+	6000 1150 6000 2400
+Wire Bus Line
+	5800 800  5800 2000
+Wire Wire Line
+	4000 2000 4250 2000
+Wire Bus Line
+	4100 1150 4100 2400
+Wire Bus Line
+	3900 800  3900 2000
+Wire Wire Line
+	1950 2000 2250 2000
+Wire Bus Line
+	2050 1150 2050 2350
 Wire Bus Line
 	1850 800  1850 1950
 Wire Bus Line
 	900  700  9750 700 
 Wire Bus Line
 	900  1050 9750 1050
-Wire Bus Line
-	2050 1150 2050 2350
-Wire Bus Line
-	3900 800  3900 2000
-Wire Bus Line
-	4100 1150 4100 2400
-Wire Bus Line
-	5800 800  5800 2000
-Wire Bus Line
-	6000 1150 6000 2400
-Wire Bus Line
-	7750 800  7750 2000
-Wire Bus Line
-	8000 1150 8000 2400
 $EndSCHEMATC

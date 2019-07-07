@@ -1,0 +1,660 @@
+EESchema Schematic File Version 4
+LIBS:arc16-design-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 47 47
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L arc16-library:74HCT08 U?
+U 1 1 5DA52B49
+P 1750 5600
+AR Path="/5D2130E4/5D22203C/5DA52B49" Ref="U?"  Part="1" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B49" Ref="U?"  Part="1" 
+F 0 "U?" H 1750 5925 50  0000 C CNN
+F 1 "74HCT08" H 1750 5834 50  0000 C CNN
+F 2 "" H 1750 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 1750 5600 50  0001 C CNN
+	1    1750 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 2 1 5DA52B4F
+P 2350 5600
+AR Path="/5D2130E4/5D22203C/5DA52B4F" Ref="U?"  Part="2" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B4F" Ref="U?"  Part="2" 
+F 0 "U?" H 2350 5925 50  0000 C CNN
+F 1 "74HCT08" H 2350 5834 50  0000 C CNN
+F 2 "" H 2350 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 2350 5600 50  0001 C CNN
+	2    2350 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 3 1 5DA52B55
+P 2900 5600
+AR Path="/5D2130E4/5D22203C/5DA52B55" Ref="U?"  Part="3" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B55" Ref="U?"  Part="3" 
+F 0 "U?" H 2900 5925 50  0000 C CNN
+F 1 "74HCT08" H 2900 5834 50  0000 C CNN
+F 2 "" H 2900 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 2900 5600 50  0001 C CNN
+	3    2900 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 4 1 5DA52B5B
+P 3450 5600
+AR Path="/5D2130E4/5D22203C/5DA52B5B" Ref="U?"  Part="4" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B5B" Ref="U?"  Part="4" 
+F 0 "U?" H 3450 5925 50  0000 C CNN
+F 1 "74HCT08" H 3450 5834 50  0000 C CNN
+F 2 "" H 3450 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 3450 5600 50  0001 C CNN
+	4    3450 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 1 1 5DA52B61
+P 4050 5600
+AR Path="/5D2130E4/5D22203C/5DA52B61" Ref="U?"  Part="1" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B61" Ref="U?"  Part="1" 
+F 0 "U?" H 4050 5925 50  0000 C CNN
+F 1 "74HCT08" H 4050 5834 50  0000 C CNN
+F 2 "" H 4050 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 4050 5600 50  0001 C CNN
+	1    4050 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 2 1 5DA52B67
+P 4650 5600
+AR Path="/5D2130E4/5D22203C/5DA52B67" Ref="U?"  Part="2" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B67" Ref="U?"  Part="2" 
+F 0 "U?" H 4650 5925 50  0000 C CNN
+F 1 "74HCT08" H 4650 5834 50  0000 C CNN
+F 2 "" H 4650 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 4650 5600 50  0001 C CNN
+	2    4650 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 3 1 5DA52B6D
+P 5250 5600
+AR Path="/5D2130E4/5D22203C/5DA52B6D" Ref="U?"  Part="3" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B6D" Ref="U?"  Part="3" 
+F 0 "U?" H 5250 5925 50  0000 C CNN
+F 1 "74HCT08" H 5250 5834 50  0000 C CNN
+F 2 "" H 5250 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 5250 5600 50  0001 C CNN
+	3    5250 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 4 1 5DA52B73
+P 5800 5600
+AR Path="/5D2130E4/5D22203C/5DA52B73" Ref="U?"  Part="4" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA52B73" Ref="U?"  Part="4" 
+F 0 "U?" H 5800 5925 50  0000 C CNN
+F 1 "74HCT08" H 5800 5834 50  0000 C CNN
+F 2 "" H 5800 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 5800 5600 50  0001 C CNN
+	4    5800 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 2 1 5DA97F6B
+P 6950 5600
+AR Path="/5D2130E4/5D22203C/5DA97F6B" Ref="U?"  Part="2" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F6B" Ref="U?"  Part="2" 
+F 0 "U?" H 6950 5925 50  0000 C CNN
+F 1 "74HCT08" H 6950 5834 50  0000 C CNN
+F 2 "" H 6950 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 6950 5600 50  0001 C CNN
+	2    6950 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 3 1 5DA97F75
+P 7500 5600
+AR Path="/5D2130E4/5D22203C/5DA97F75" Ref="U?"  Part="3" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F75" Ref="U?"  Part="3" 
+F 0 "U?" H 7500 5925 50  0000 C CNN
+F 1 "74HCT08" H 7500 5834 50  0000 C CNN
+F 2 "" H 7500 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 7500 5600 50  0001 C CNN
+	3    7500 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 4 1 5DA97F7F
+P 8050 5600
+AR Path="/5D2130E4/5D22203C/5DA97F7F" Ref="U?"  Part="4" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F7F" Ref="U?"  Part="4" 
+F 0 "U?" H 8050 5925 50  0000 C CNN
+F 1 "74HCT08" H 8050 5834 50  0000 C CNN
+F 2 "" H 8050 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 8050 5600 50  0001 C CNN
+	4    8050 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 1 1 5DA97F89
+P 8650 5600
+AR Path="/5D2130E4/5D22203C/5DA97F89" Ref="U?"  Part="1" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F89" Ref="U?"  Part="1" 
+F 0 "U?" H 8650 5925 50  0000 C CNN
+F 1 "74HCT08" H 8650 5834 50  0000 C CNN
+F 2 "" H 8650 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 8650 5600 50  0001 C CNN
+	1    8650 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 2 1 5DA97F93
+P 9250 5600
+AR Path="/5D2130E4/5D22203C/5DA97F93" Ref="U?"  Part="2" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F93" Ref="U?"  Part="2" 
+F 0 "U?" H 9250 5925 50  0000 C CNN
+F 1 "74HCT08" H 9250 5834 50  0000 C CNN
+F 2 "" H 9250 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 9250 5600 50  0001 C CNN
+	2    9250 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 3 1 5DA97F9D
+P 9850 5600
+AR Path="/5D2130E4/5D22203C/5DA97F9D" Ref="U?"  Part="3" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F9D" Ref="U?"  Part="3" 
+F 0 "U?" H 9850 5925 50  0000 C CNN
+F 1 "74HCT08" H 9850 5834 50  0000 C CNN
+F 2 "" H 9850 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 9850 5600 50  0001 C CNN
+	3    9850 5600
+	0    -1   1    0   
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 4 1 5DA97FA7
+P 10400 5600
+AR Path="/5D2130E4/5D22203C/5DA97FA7" Ref="U?"  Part="4" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97FA7" Ref="U?"  Part="4" 
+F 0 "U?" H 10400 5925 50  0000 C CNN
+F 1 "74HCT08" H 10400 5834 50  0000 C CNN
+F 2 "" H 10400 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 10400 5600 50  0001 C CNN
+	4    10400 5600
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	950  5100 1650 5100
+Wire Wire Line
+	10300 5100 10300 5300
+Wire Wire Line
+	9750 5100 9750 5300
+Connection ~ 9750 5100
+Wire Wire Line
+	9750 5100 10300 5100
+Wire Wire Line
+	9150 5300 9150 5100
+Connection ~ 9150 5100
+Wire Wire Line
+	9150 5100 9750 5100
+Wire Wire Line
+	8550 5300 8550 5100
+Connection ~ 8550 5100
+Wire Wire Line
+	8550 5100 9150 5100
+Wire Wire Line
+	7950 5300 7950 5100
+Connection ~ 7950 5100
+Wire Wire Line
+	7950 5100 8550 5100
+Wire Wire Line
+	7400 5300 7400 5100
+Connection ~ 7400 5100
+Wire Wire Line
+	7400 5100 7950 5100
+Wire Wire Line
+	6850 5300 6850 5100
+Connection ~ 6850 5100
+Wire Wire Line
+	6850 5100 7400 5100
+Wire Wire Line
+	6250 5300 6250 5100
+Connection ~ 6250 5100
+Wire Wire Line
+	6250 5100 6850 5100
+Wire Wire Line
+	5700 5300 5700 5100
+Connection ~ 5700 5100
+Wire Wire Line
+	5700 5100 6250 5100
+Wire Wire Line
+	5150 5300 5150 5100
+Connection ~ 5150 5100
+Wire Wire Line
+	5150 5100 5700 5100
+Wire Wire Line
+	4550 5300 4550 5100
+Connection ~ 4550 5100
+Wire Wire Line
+	4550 5100 5150 5100
+Wire Wire Line
+	3950 5300 3950 5100
+Connection ~ 3950 5100
+Wire Wire Line
+	3950 5100 4550 5100
+Wire Wire Line
+	3350 5300 3350 5100
+Connection ~ 3350 5100
+Wire Wire Line
+	3350 5100 3950 5100
+Wire Wire Line
+	2800 5300 2800 5100
+Connection ~ 2800 5100
+Wire Wire Line
+	2800 5100 3350 5100
+Wire Wire Line
+	2250 5300 2250 5100
+Connection ~ 2250 5100
+Wire Wire Line
+	2250 5100 2800 5100
+Wire Wire Line
+	1650 5300 1650 5100
+Connection ~ 1650 5100
+Wire Wire Line
+	1650 5100 2250 5100
+$Comp
+L arc16-library:74HCT08 U?
+U 5 1 5DAC3E40
+P 1150 6950
+F 0 "U?" H 1380 6996 50  0000 L CNN
+F 1 "74HCT08" H 1380 6905 50  0000 L CNN
+F 2 "" H 1150 6950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 1150 6950 50  0001 C CNN
+	5    1150 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 5 1 5DAC8790
+P 2050 6950
+F 0 "U?" H 2280 6996 50  0000 L CNN
+F 1 "74HCT08" H 2280 6905 50  0000 L CNN
+F 2 "" H 2050 6950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 2050 6950 50  0001 C CNN
+	5    2050 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 5 1 5DAC99BC
+P 3000 6950
+F 0 "U?" H 3230 6996 50  0000 L CNN
+F 1 "74HCT08" H 3230 6905 50  0000 L CNN
+F 2 "" H 3000 6950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 3000 6950 50  0001 C CNN
+	5    3000 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L arc16-library:74HCT08 U?
+U 5 1 5DACCB71
+P 3950 6950
+F 0 "U?" H 4180 6996 50  0000 L CNN
+F 1 "74HCT08" H 4180 6905 50  0000 L CNN
+F 2 "" H 3950 6950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 3950 6950 50  0001 C CNN
+	5    3950 6950
+	1    0    0    -1  
+$EndComp
+Text HLabel 950  5100 0    50   Input ~ 0
+Write
+$Comp
+L arc16-library:74HCT238 U?
+U 1 1 5DADB2E2
+P 8300 2900
+F 0 "U?" V 8254 2156 50  0000 R CNN
+F 1 "74HCT238" V 8345 2156 50  0000 R CNN
+F 2 "" H 8300 2900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/cd74hc138.pdf" H 8300 2900 50  0001 C CNN
+	1    8300 2900
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	5900 3550 4100 3550
+Wire Wire Line
+	5900 3550 5900 5300
+Wire Wire Line
+	5350 3650 4000 3650
+Wire Wire Line
+	5350 3650 5350 5300
+Wire Wire Line
+	3900 3750 4750 3750
+Wire Wire Line
+	4750 3750 4750 5300
+Wire Wire Line
+	4150 3850 3800 3850
+Wire Wire Line
+	4150 3850 4150 5300
+Wire Wire Line
+	3550 3850 3700 3850
+Wire Wire Line
+	3550 3850 3550 5300
+Wire Wire Line
+	3600 3750 3000 3750
+Wire Wire Line
+	3000 3750 3000 5300
+Wire Wire Line
+	2450 3650 3500 3650
+Wire Wire Line
+	2450 3650 2450 5300
+Wire Wire Line
+	4000 3650 4000 3400
+Wire Wire Line
+	4100 3550 4100 3400
+Wire Wire Line
+	3500 3650 3500 3400
+Wire Wire Line
+	3600 3400 3600 3750
+Wire Wire Line
+	3700 3850 3700 3400
+Wire Wire Line
+	3800 3850 3800 3400
+Wire Wire Line
+	3900 3400 3900 3750
+$Comp
+L arc16-library:74HCT238 U?
+U 1 1 5DAD69AF
+P 3700 2900
+F 0 "U?" V 3654 2156 50  0000 R CNN
+F 1 "74HCT238" V 3745 2156 50  0000 R CNN
+F 2 "" H 3700 2900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/cd74hc138.pdf" H 3700 2900 50  0001 C CNN
+	1    3700 2900
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	3400 3400 3400 3550
+Wire Wire Line
+	3400 3550 1850 3550
+Wire Wire Line
+	1850 3550 1850 5300
+Wire Wire Line
+	8000 3400 8000 3550
+Wire Wire Line
+	8000 3550 6450 3550
+Wire Wire Line
+	6450 3550 6450 5300
+Wire Wire Line
+	7050 5300 7050 3650
+Wire Wire Line
+	7050 3650 8100 3650
+Wire Wire Line
+	8100 3650 8100 3400
+Wire Wire Line
+	8200 3400 8200 3750
+Wire Wire Line
+	8200 3750 7600 3750
+Wire Wire Line
+	7600 3750 7600 5300
+Wire Wire Line
+	8150 5300 8150 3850
+Wire Wire Line
+	8150 3850 8300 3850
+Wire Wire Line
+	8300 3850 8300 3400
+Wire Wire Line
+	8400 3400 8400 3850
+Wire Wire Line
+	8400 3850 8750 3850
+Wire Wire Line
+	8750 3850 8750 5300
+Wire Wire Line
+	9350 5300 9350 3750
+Wire Wire Line
+	9350 3750 8500 3750
+Wire Wire Line
+	8500 3750 8500 3400
+Wire Wire Line
+	8600 3400 8600 3650
+Wire Wire Line
+	8600 3650 9950 3650
+Wire Wire Line
+	9950 3650 9950 5300
+Wire Wire Line
+	10500 5300 10500 3550
+Wire Wire Line
+	10500 3550 8700 3550
+Wire Wire Line
+	8700 3550 8700 3400
+Entry Wire Line
+	8400 1150 8500 1250
+Entry Wire Line
+	8100 1150 8200 1250
+Entry Wire Line
+	8000 1150 8100 1250
+Entry Wire Line
+	7900 1150 8000 1250
+Wire Wire Line
+	8000 2400 8000 1250
+Wire Wire Line
+	8100 2400 8100 1250
+Wire Wire Line
+	8200 1250 8200 2400
+Entry Wire Line
+	3300 1150 3400 1250
+Entry Wire Line
+	3400 1150 3500 1250
+Entry Wire Line
+	3500 1150 3600 1250
+Entry Wire Line
+	4000 1150 4100 1250
+Wire Wire Line
+	3400 1250 3400 2400
+Wire Wire Line
+	3500 1250 3500 2400
+Wire Wire Line
+	3600 2400 3600 1250
+Wire Wire Line
+	8500 1250 8500 2400
+Wire Wire Line
+	4100 2400 4100 1250
+$Comp
+L power:GND #PWR?
+U 1 1 5DB488B0
+P 4400 3200
+F 0 "#PWR?" H 4400 2950 50  0001 C CNN
+F 1 "GND" H 4405 3027 50  0000 C CNN
+F 2 "" H 4400 3200 50  0001 C CNN
+F 3 "" H 4400 3200 50  0001 C CNN
+	1    4400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5DB494D8
+P 9000 3200
+F 0 "#PWR?" H 9000 2950 50  0001 C CNN
+F 1 "GND" H 9005 3027 50  0000 C CNN
+F 2 "" H 9000 3200 50  0001 C CNN
+F 3 "" H 9000 3200 50  0001 C CNN
+	1    9000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5DB4A084
+P 3100 2300
+F 0 "#PWR?" H 3100 2150 50  0001 C CNN
+F 1 "VCC" H 3117 2473 50  0000 C CNN
+F 2 "" H 3100 2300 50  0001 C CNN
+F 3 "" H 3100 2300 50  0001 C CNN
+	1    3100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5DB4B7B9
+P 7700 2300
+F 0 "#PWR?" H 7700 2150 50  0001 C CNN
+F 1 "VCC" H 7717 2473 50  0000 C CNN
+F 2 "" H 7700 2300 50  0001 C CNN
+F 3 "" H 7700 2300 50  0001 C CNN
+	1    7700 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 2300 8600 2400
+Wire Wire Line
+	8600 2300 8700 2300
+Wire Wire Line
+	8700 2300 8700 2400
+Wire Wire Line
+	7700 2300 7700 2900
+Wire Wire Line
+	4000 2300 4000 2400
+Wire Wire Line
+	8700 2300 9000 2300
+Wire Wire Line
+	9000 2300 9000 2900
+Connection ~ 8700 2300
+Connection ~ 9000 2900
+Wire Wire Line
+	9000 2900 9000 3200
+Wire Wire Line
+	3900 2400 3900 2300
+Wire Wire Line
+	4000 2300 4400 2300
+Wire Wire Line
+	4400 2300 4400 2900
+Connection ~ 4400 2900
+Wire Wire Line
+	4400 2900 4400 3200
+Wire Wire Line
+	3100 2900 3100 2300
+Connection ~ 3100 2300
+Wire Wire Line
+	3100 2300 3900 2300
+Wire Wire Line
+	1150 6450 2050 6450
+Connection ~ 2050 6450
+Wire Wire Line
+	2050 6450 2500 6450
+Connection ~ 3000 6450
+Wire Wire Line
+	3000 6450 3950 6450
+Wire Wire Line
+	3950 7450 3000 7450
+Connection ~ 2050 7450
+Wire Wire Line
+	2050 7450 1150 7450
+Connection ~ 3000 7450
+Wire Wire Line
+	3000 7450 2500 7450
+$Comp
+L power:VCC #PWR?
+U 1 1 5DB6FEC1
+P 2500 6350
+F 0 "#PWR?" H 2500 6200 50  0001 C CNN
+F 1 "VCC" H 2517 6523 50  0000 C CNN
+F 2 "" H 2500 6350 50  0001 C CNN
+F 3 "" H 2500 6350 50  0001 C CNN
+	1    2500 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5DB70A6A
+P 2500 7550
+F 0 "#PWR?" H 2500 7300 50  0001 C CNN
+F 1 "GND" H 2505 7377 50  0000 C CNN
+F 2 "" H 2500 7550 50  0001 C CNN
+F 3 "" H 2500 7550 50  0001 C CNN
+	1    2500 7550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 6450 2500 6350
+Connection ~ 2500 6450
+Wire Wire Line
+	2500 6450 3000 6450
+Wire Wire Line
+	2500 7550 2500 7450
+Connection ~ 2500 7450
+Wire Wire Line
+	2500 7450 2050 7450
+Text HLabel 900  1150 0    50   Input ~ 0
+A[0..4]
+Text HLabel 1750 5900 3    50   Output ~ 0
+Y0
+Text HLabel 2350 5900 3    50   Output ~ 0
+Y1
+Text HLabel 2900 5900 3    50   Output ~ 0
+Y2
+Text HLabel 3450 5900 3    50   Output ~ 0
+Y3
+Text HLabel 4050 5900 3    50   Output ~ 0
+Y4
+Text HLabel 4650 5900 3    50   Output ~ 0
+Y5
+Text HLabel 5250 5900 3    50   Output ~ 0
+Y6
+Text HLabel 5800 5900 3    50   Output ~ 0
+Y7
+Wire Bus Line
+	900  1150 8400 1150
+$Comp
+L arc16-library:74HCT08 U?
+U 1 1 5DA97F61
+P 6350 5600
+AR Path="/5D2130E4/5D22203C/5DA97F61" Ref="U?"  Part="1" 
+AR Path="/5D2130E4/5D22203C/5DA4287E/5DA97F61" Ref="U?"  Part="1" 
+F 0 "U?" H 6350 5925 50  0000 C CNN
+F 1 "74HCT08" H 6350 5834 50  0000 C CNN
+F 2 "" H 6350 5600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74hct08.pdf" H 6350 5600 50  0001 C CNN
+	1    6350 5600
+	0    -1   1    0   
+$EndComp
+Text HLabel 6350 5900 3    50   Output ~ 0
+Y8
+Text HLabel 6950 5900 3    50   Output ~ 0
+Y9
+Text HLabel 7500 5900 3    50   Output ~ 0
+Y10
+Text HLabel 8050 5900 3    50   Output ~ 0
+Y11
+Text HLabel 8650 5900 3    50   Output ~ 0
+Y12
+Text HLabel 9250 5900 3    50   Output ~ 0
+Y13
+Text HLabel 9850 5900 3    50   Output ~ 0
+Y14
+Text HLabel 10400 5900 3    50   Output ~ 0
+Y15
+$EndSCHEMATC
