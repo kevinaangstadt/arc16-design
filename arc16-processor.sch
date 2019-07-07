@@ -1,0 +1,30 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 4450 2850 1100 1600
+U 5D21315B
+F0 "ARC16-ALU" 50
+F1 "arc16-alu.sch" 50
+F2 "A[0..15]" I L 4450 3150 50 
+F3 "B[0..15]" I L 4450 3400 50 
+F4 "S[0..3]" I L 4450 3850 50 
+F5 "F[0..15]" O R 5550 3200 50 
+F6 "Cn" I L 4450 4250 50 
+F7 "A=B" O R 5550 3350 50 
+F8 "M" I L 4450 4000 50 
+F9 "Cout" O R 5550 3500 50 
+$EndSheet
+$EndSCHEMATC

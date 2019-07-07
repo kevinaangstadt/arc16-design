@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HCT21
+D Dual 4-input AND
+K TTL And4
+F http://www.ti.com/lit/ds/symlink/cd74hc21.pdf
+$ENDCMP
+#
+#End Doc Library
