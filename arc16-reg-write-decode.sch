@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 47 47
+Sheet 47 48
 Title ""
 Date ""
 Rev ""
@@ -626,8 +626,6 @@ Text HLabel 5250 5900 3    50   Output ~ 0
 Y6
 Text HLabel 5800 5900 3    50   Output ~ 0
 Y7
-Wire Bus Line
-	900  1150 8400 1150
 $Comp
 L arc16-library:74HCT08 U?
 U 1 1 5DA97F61
@@ -673,4 +671,6 @@ Text Label 8200 1350 3    50   ~ 0
 A2
 Text Label 8500 1350 3    50   ~ 0
 A3
+Wire Bus Line
+	900  1150 8400 1150
 $EndSCHEMATC

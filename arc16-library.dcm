@@ -24,6 +24,12 @@ K TTL MUX MUX2
 F http://www.ti.com/lit/ds/symlink/sn74hct257.pdf
 $ENDCMP
 #
+$CMP 74HCT541
+D 8-bit Buffer/Line Driver 3-state outputs
+K TTL BUFFER 3State BUS
+F http://www.ti.com/lit/gpn/sn74HCT541
+$ENDCMP
+#
 $CMP 74LS08
 D Quad And2
 K TTL and2
@@ -46,6 +52,12 @@ $CMP 74LS257
 D Quad 2 to 1 Multiplexer
 K TTL MUX MUX2
 F http://www.ti.com/lit/gpn/sn74LS257
+$ENDCMP
+#
+$CMP 74LS541
+D 8-bit Buffer/Line Driver 3-state outputs
+K TTL BUFFER 3State BUS
+F http://www.ti.com/lit/gpn/sn74LS541
 $ENDCMP
 #
 $CMP CD74HCT21
